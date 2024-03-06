@@ -1,3 +1,4 @@
+Link to Youtube video: https://www.youtube.com/watch?v=OS2nJHeVZzs
 Problem: 
 The Mask Detection System aims to build a system that detects whether individuals are wearing masks in images or live video streams. The goal is to enhance public safety by identifying compliance with mask-wearing guidelines, especially during situations like the COVID-19 pandemic. 
 

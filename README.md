@@ -2,7 +2,9 @@ Link to Youtube video: https://www.youtube.com/watch?v=OS2nJHeVZzs
 
 Configuration:
 Open the terminal and insert these commands:
+
 1.npm i
+
 2.node app.js
 
 Problem: 
